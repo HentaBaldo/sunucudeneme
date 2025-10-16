@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "express": "^5.1.0"
-  }
+  },
+  "name": "ybswebdev",
+  "version": "1.0.0",
+  "description": "sunucu tabanlı programlama dersi ilk ders",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HentaBaldo/sunucudeneme.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HentaBaldo/sunucudeneme/issues"
+  },
+  "homepage": "https://github.com/HentaBaldo/sunucudeneme#readme"
 }
