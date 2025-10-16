@@ -1,0 +1,1 @@
+console.log("Naber Müdür? N'aptın?");
